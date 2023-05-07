@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-web-browser-audio-dont-stop-playing-repro",
+    "slug": "expo-web-browser-audio-dont-stop-playing-repro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
